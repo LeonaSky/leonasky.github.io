@@ -1,0 +1,477 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<weather created="nepogoda.ru" date="2017-03-26">
+<point id="668">
+<point_id>668</point_id>
+<point_name>Кременчуг</point_name>
+<point_name_trim>Кременчуг</point_name_trim>
+<point_name_en>Kremenchug</point_name_en>
+<gmt_add>2</gmt_add><timestep>
+<time_step>6</time_step>
+<datetime>2017-03-26 21:00</datetime>
+<timestamp>1490558400</timestamp>
+<G>21</G>
+<HHii>21:00</HHii>
+<cloud_cover>41</cloud_cover>
+<precipitation>0</precipitation>
+<pressure>754</pressure>
+<temperature>4</temperature>
+<humidity>64</humidity>
+<wind_direction>С</wind_direction>
+<wind_velocity>3</wind_velocity>
+<falls>0</falls>
+<drops>0</drops>
+<cloud_text>Переменная облачность</cloud_text>
+<precipitation_text>Без осадков.</precipitation_text>
+<temperature_interval>+3..+5</temperature_interval>
+<temperaturef>39</temperaturef>
+<wind_direction_text>северный</wind_direction_text>
+<wind_direction_grad>350</wind_direction_grad>
+<wind_text>северный, 2-4 м/с</wind_text>
+<daypart>3</daypart>
+<daypartname>Вечер</daypartname>
+<description>Переменная облачность, без осадков, температура +3..+5 С, давление 754 мм рт.ст., ветер северный, 2-4 м/с</description>
+</timestep>
+<timestep>
+<time_step>6</time_step>
+<datetime>2017-03-27 3:00</datetime>
+<timestamp>1490580000</timestamp>
+<G>3</G>
+<HHii>3:00</HHii>
+<cloud_cover>46</cloud_cover>
+<precipitation>0</precipitation>
+<pressure>754</pressure>
+<temperature>2</temperature>
+<humidity>77</humidity>
+<wind_direction>З</wind_direction>
+<wind_velocity>4</wind_velocity>
+<falls>0</falls>
+<drops>0</drops>
+<cloud_text>Переменная облачность</cloud_text>
+<precipitation_text>Без осадков.</precipitation_text>
+<temperature_interval>+1..+3</temperature_interval>
+<temperaturef>36</temperaturef>
+<wind_direction_text>западный</wind_direction_text>
+<wind_direction_grad>290</wind_direction_grad>
+<wind_text>западный, 3-5 м/с</wind_text>
+<daypart>4</daypart>
+<daypartname>Ночь</daypartname>
+<description>Переменная облачность, без осадков, температура +1..+3 С, давление 754 мм рт.ст., ветер западный, 3-5 м/с</description>
+</timestep>
+<timestep>
+<time_step>6</time_step>
+<datetime>2017-03-27 9:00</datetime>
+<timestamp>1490601600</timestamp>
+<G>9</G>
+<HHii>9:00</HHii>
+<cloud_cover>35</cloud_cover>
+<precipitation>0</precipitation>
+<pressure>751</pressure>
+<temperature>4</temperature>
+<humidity>67</humidity>
+<wind_direction>З</wind_direction>
+<wind_velocity>10</wind_velocity>
+<falls>0</falls>
+<drops>0</drops>
+<cloud_text>Небольшая облачность.</cloud_text>
+<precipitation_text>Без осадков.</precipitation_text>
+<temperature_interval>+3..+5</temperature_interval>
+<temperaturef>39</temperaturef>
+<wind_direction_text>западный</wind_direction_text>
+<wind_direction_grad>280</wind_direction_grad>
+<wind_text>западный, 9-11 м/с</wind_text>
+<daypart>1</daypart>
+<daypartname>Утро</daypartname>
+<description>Небольшая облачность, без осадков, температура +3..+5 С, давление 751 мм рт.ст., ветер западный, 9-11 м/с</description>
+</timestep>
+<timestep>
+<time_step>6</time_step>
+<datetime>2017-03-27 15:00</datetime>
+<timestamp>1490623200</timestamp>
+<G>15</G>
+<HHii>15:00</HHii>
+<cloud_cover>99</cloud_cover>
+<precipitation>0.5</precipitation>
+<pressure>750</pressure>
+<temperature>7</temperature>
+<humidity>65</humidity>
+<wind_direction>С-З</wind_direction>
+<wind_velocity>9</wind_velocity>
+<falls>1</falls>
+<drops>1</drops>
+<cloud_text>Пасмурно.</cloud_text>
+<precipitation_text>Местами небольшой дождь.</precipitation_text>
+<temperature_interval>+6..+8</temperature_interval>
+<temperaturef>45</temperaturef>
+<wind_direction_text>северо-западный</wind_direction_text>
+<wind_direction_grad>310</wind_direction_grad>
+<wind_text>северо-западный, 8-10 м/с</wind_text>
+<daypart>2</daypart>
+<daypartname>День</daypartname>
+<description>Пасмурно, местами небольшой дождь, температура +6..+8 С, давление 750 мм рт.ст., ветер северо-западный, 8-10 м/с</description>
+</timestep>
+<timestep>
+<time_step>6</time_step>
+<datetime>2017-03-27 21:00</datetime>
+<timestamp>1490644800</timestamp>
+<G>21</G>
+<HHii>21:00</HHii>
+<cloud_cover>62</cloud_cover>
+<precipitation>0.4</precipitation>
+<pressure>753</pressure>
+<temperature>4</temperature>
+<humidity>76</humidity>
+<wind_direction>С-З</wind_direction>
+<wind_velocity>4</wind_velocity>
+<falls>1</falls>
+<drops>0.5</drops>
+<cloud_text>Переменная облачность</cloud_text>
+<precipitation_text>Без существенных осадков.</precipitation_text>
+<temperature_interval>+3..+5</temperature_interval>
+<temperaturef>39</temperaturef>
+<wind_direction_text>северо-западный</wind_direction_text>
+<wind_direction_grad>300</wind_direction_grad>
+<wind_text>северо-западный, 3-5 м/с</wind_text>
+<daypart>3</daypart>
+<daypartname>Вечер</daypartname>
+<description>Переменная облачность, без существенных осадков, температура +3..+5 С, давление 753 мм рт.ст., ветер северо-западный, 3-5 м/с</description>
+</timestep>
+<timestep>
+<time_step>6</time_step>
+<datetime>2017-03-28 3:00</datetime>
+<timestamp>1490666400</timestamp>
+<G>3</G>
+<HHii>3:00</HHii>
+<cloud_cover>62</cloud_cover>
+<precipitation>0</precipitation>
+<pressure>752</pressure>
+<temperature>3</temperature>
+<humidity>84</humidity>
+<wind_direction>З</wind_direction>
+<wind_velocity>7</wind_velocity>
+<falls>0</falls>
+<drops>0</drops>
+<cloud_text>Переменная облачность</cloud_text>
+<precipitation_text>Без осадков.</precipitation_text>
+<temperature_interval>+2..+4</temperature_interval>
+<temperaturef>37</temperaturef>
+<wind_direction_text>западный</wind_direction_text>
+<wind_direction_grad>260</wind_direction_grad>
+<wind_text>западный, 6-8 м/с</wind_text>
+<daypart>4</daypart>
+<daypartname>Ночь</daypartname>
+<description>Переменная облачность, без осадков, температура +2..+4 С, давление 752 мм рт.ст., ветер западный, 6-8 м/с</description>
+</timestep>
+<timestep>
+<time_step>6</time_step>
+<datetime>2017-03-28 9:00</datetime>
+<timestamp>1490688000</timestamp>
+<G>9</G>
+<HHii>9:00</HHii>
+<cloud_cover>53</cloud_cover>
+<precipitation>0.1</precipitation>
+<pressure>750</pressure>
+<temperature>7</temperature>
+<humidity>76</humidity>
+<wind_direction>З</wind_direction>
+<wind_velocity>10</wind_velocity>
+<falls>0</falls>
+<drops>0</drops>
+<cloud_text>Переменная облачность</cloud_text>
+<precipitation_text>Без осадков.</precipitation_text>
+<temperature_interval>+6..+8</temperature_interval>
+<temperaturef>45</temperaturef>
+<wind_direction_text>западный</wind_direction_text>
+<wind_direction_grad>280</wind_direction_grad>
+<wind_text>западный, 9-11 м/с</wind_text>
+<daypart>1</daypart>
+<daypartname>Утро</daypartname>
+<description>Переменная облачность, без осадков, температура +6..+8 С, давление 750 мм рт.ст., ветер западный, 9-11 м/с</description>
+</timestep>
+<timestep>
+<time_step>6</time_step>
+<datetime>2017-03-28 15:00</datetime>
+<timestamp>1490709600</timestamp>
+<G>15</G>
+<HHii>15:00</HHii>
+<cloud_cover>96</cloud_cover>
+<precipitation>0.2</precipitation>
+<pressure>750</pressure>
+<temperature>9</temperature>
+<humidity>72</humidity>
+<wind_direction>С-З</wind_direction>
+<wind_velocity>9</wind_velocity>
+<falls>1</falls>
+<drops>0.5</drops>
+<cloud_text>Пасмурно.</cloud_text>
+<precipitation_text>Без существенных осадков.</precipitation_text>
+<temperature_interval>+8..+10</temperature_interval>
+<temperaturef>48</temperaturef>
+<wind_direction_text>северо-западный</wind_direction_text>
+<wind_direction_grad>300</wind_direction_grad>
+<wind_text>северо-западный, 8-10 м/с</wind_text>
+<daypart>2</daypart>
+<daypartname>День</daypartname>
+<description>Пасмурно, без существенных осадков, температура +8..+10 С, давление 750 мм рт.ст., ветер северо-западный, 8-10 м/с</description>
+</timestep>
+<timestep>
+<time_step>6</time_step>
+<datetime>2017-03-28 21:00</datetime>
+<timestamp>1490731200</timestamp>
+<G>21</G>
+<HHii>21:00</HHii>
+<cloud_cover>79</cloud_cover>
+<precipitation>0.2</precipitation>
+<pressure>752</pressure>
+<temperature>8</temperature>
+<humidity>66</humidity>
+<wind_direction>С-З</wind_direction>
+<wind_velocity>6</wind_velocity>
+<falls>1</falls>
+<drops>0.5</drops>
+<cloud_text>Облачно.</cloud_text>
+<precipitation_text>Без существенных осадков.</precipitation_text>
+<temperature_interval>+7..+9</temperature_interval>
+<temperaturef>46</temperaturef>
+<wind_direction_text>северо-западный</wind_direction_text>
+<wind_direction_grad>310</wind_direction_grad>
+<wind_text>северо-западный, 5-7 м/с</wind_text>
+<daypart>3</daypart>
+<daypartname>Вечер</daypartname>
+<description>Облачно, без существенных осадков, температура +7..+9 С, давление 752 мм рт.ст., ветер северо-западный, 5-7 м/с</description>
+</timestep>
+<timestep>
+<time_step>6</time_step>
+<datetime>2017-03-29 3:00</datetime>
+<timestamp>1490752800</timestamp>
+<G>3</G>
+<HHii>3:00</HHii>
+<cloud_cover>32</cloud_cover>
+<precipitation>0</precipitation>
+<pressure>755</pressure>
+<temperature>2</temperature>
+<humidity>71</humidity>
+<wind_direction>С</wind_direction>
+<wind_velocity>4</wind_velocity>
+<falls>0</falls>
+<drops>0</drops>
+<cloud_text>Небольшая облачность.</cloud_text>
+<precipitation_text>Без осадков.</precipitation_text>
+<temperature_interval>+1..+3</temperature_interval>
+<temperaturef>36</temperaturef>
+<wind_direction_text>северный</wind_direction_text>
+<wind_direction_grad>340</wind_direction_grad>
+<wind_text>северный, 3-5 м/с</wind_text>
+<daypart>4</daypart>
+<daypartname>Ночь</daypartname>
+<description>Небольшая облачность, без осадков, температура +1..+3 С, давление 755 мм рт.ст., ветер северный, 3-5 м/с</description>
+</timestep>
+<timestep>
+<time_step>6</time_step>
+<datetime>2017-03-29 9:00</datetime>
+<timestamp>1490774400</timestamp>
+<G>9</G>
+<HHii>9:00</HHii>
+<cloud_cover>21</cloud_cover>
+<precipitation>0</precipitation>
+<pressure>758</pressure>
+<temperature>3</temperature>
+<humidity>57</humidity>
+<wind_direction>С</wind_direction>
+<wind_velocity>2</wind_velocity>
+<falls>0</falls>
+<drops>0</drops>
+<cloud_text>Небольшая облачность.</cloud_text>
+<precipitation_text>Без осадков.</precipitation_text>
+<temperature_interval>+2..+4</temperature_interval>
+<temperaturef>37</temperaturef>
+<wind_direction_text>северный</wind_direction_text>
+<wind_direction_grad>340</wind_direction_grad>
+<wind_text>северный, 1-3 м/с</wind_text>
+<daypart>1</daypart>
+<daypartname>Утро</daypartname>
+<description>Небольшая облачность, без осадков, температура +2..+4 С, давление 758 мм рт.ст., ветер северный, 1-3 м/с</description>
+</timestep>
+<timestep>
+<time_step>6</time_step>
+<datetime>2017-03-29 15:00</datetime>
+<timestamp>1490796000</timestamp>
+<G>15</G>
+<HHii>15:00</HHii>
+<cloud_cover>1</cloud_cover>
+<precipitation>0</precipitation>
+<pressure>757</pressure>
+<temperature>9</temperature>
+<humidity>40</humidity>
+<wind_direction>З</wind_direction>
+<wind_velocity>3</wind_velocity>
+<falls>0</falls>
+<drops>0</drops>
+<cloud_text>Ясно.</cloud_text>
+<precipitation_text>Без осадков.</precipitation_text>
+<temperature_interval>+8..+10</temperature_interval>
+<temperaturef>48</temperaturef>
+<wind_direction_text>западный</wind_direction_text>
+<wind_direction_grad>260</wind_direction_grad>
+<wind_text>западный, 2-4 м/с</wind_text>
+<daypart>2</daypart>
+<daypartname>День</daypartname>
+<description>Ясно, без осадков, температура +8..+10 С, давление 757 мм рт.ст., ветер западный, 2-4 м/с</description>
+</timestep>
+<timestep>
+<time_step>6</time_step>
+<datetime>2017-03-29 21:00</datetime>
+<timestamp>1490817600</timestamp>
+<G>21</G>
+<HHii>21:00</HHii>
+<cloud_cover>29</cloud_cover>
+<precipitation>0</precipitation>
+<pressure>754</pressure>
+<temperature>8</temperature>
+<humidity>56</humidity>
+<wind_direction>Ю</wind_direction>
+<wind_velocity>3</wind_velocity>
+<falls>0</falls>
+<drops>0</drops>
+<cloud_text>Небольшая облачность.</cloud_text>
+<precipitation_text>Без осадков.</precipitation_text>
+<temperature_interval>+7..+9</temperature_interval>
+<temperaturef>46</temperaturef>
+<wind_direction_text>южный</wind_direction_text>
+<wind_direction_grad>180</wind_direction_grad>
+<wind_text>южный, 2-4 м/с</wind_text>
+<daypart>3</daypart>
+<daypartname>Вечер</daypartname>
+<description>Небольшая облачность, без осадков, температура +7..+9 С, давление 754 мм рт.ст., ветер южный, 2-4 м/с</description>
+</timestep>
+<timestep>
+<time_step>6</time_step>
+<datetime>2017-03-30 3:00</datetime>
+<timestamp>1490839200</timestamp>
+<G>3</G>
+<HHii>3:00</HHii>
+<cloud_cover>83</cloud_cover>
+<precipitation>2.9</precipitation>
+<pressure>751</pressure>
+<temperature>8</temperature>
+<humidity>81</humidity>
+<wind_direction>Ю-З</wind_direction>
+<wind_velocity>8</wind_velocity>
+<falls>1</falls>
+<drops>3</drops>
+<cloud_text>Облачно.</cloud_text>
+<precipitation_text>Небольшой дождь, местами умеренный.</precipitation_text>
+<temperature_interval>+7..+9</temperature_interval>
+<temperaturef>46</temperaturef>
+<wind_direction_text>юго-западный</wind_direction_text>
+<wind_direction_grad>220</wind_direction_grad>
+<wind_text>юго-западный, 7-9 м/с</wind_text>
+<daypart>4</daypart>
+<daypartname>Ночь</daypartname>
+<description>Облачно, небольшой дождь, местами умеренный, температура +7..+9 С, давление 751 мм рт.ст., ветер юго-западный, 7-9 м/с</description>
+</timestep>
+<timestep>
+<time_step>6</time_step>
+<datetime>2017-03-30 9:00</datetime>
+<timestamp>1490860800</timestamp>
+<G>9</G>
+<HHii>9:00</HHii>
+<cloud_cover>66</cloud_cover>
+<precipitation>0.2</precipitation>
+<pressure>750</pressure>
+<temperature>9</temperature>
+<humidity>84</humidity>
+<wind_direction>З</wind_direction>
+<wind_velocity>7</wind_velocity>
+<falls>1</falls>
+<drops>0.5</drops>
+<cloud_text>Переменная облачность</cloud_text>
+<precipitation_text>Без существенных осадков.</precipitation_text>
+<temperature_interval>+8..+10</temperature_interval>
+<temperaturef>48</temperaturef>
+<wind_direction_text>западный</wind_direction_text>
+<wind_direction_grad>260</wind_direction_grad>
+<wind_text>западный, 6-8 м/с</wind_text>
+<daypart>1</daypart>
+<daypartname>Утро</daypartname>
+<description>Переменная облачность, без существенных осадков, температура +8..+10 С, давление 750 мм рт.ст., ветер западный, 6-8 м/с</description>
+</timestep>
+<timestep>
+<time_step>6</time_step>
+<datetime>2017-03-30 15:00</datetime>
+<timestamp>1490882400</timestamp>
+<G>15</G>
+<HHii>15:00</HHii>
+<cloud_cover>88</cloud_cover>
+<precipitation>0.3</precipitation>
+<pressure>752</pressure>
+<temperature>9</temperature>
+<humidity>74</humidity>
+<wind_direction>С</wind_direction>
+<wind_velocity>7</wind_velocity>
+<falls>1</falls>
+<drops>0.5</drops>
+<cloud_text>Облачно.</cloud_text>
+<precipitation_text>Без существенных осадков.</precipitation_text>
+<temperature_interval>+8..+10</temperature_interval>
+<temperaturef>48</temperaturef>
+<wind_direction_text>северный</wind_direction_text>
+<wind_direction_grad>10</wind_direction_grad>
+<wind_text>северный, 6-8 м/с</wind_text>
+<daypart>2</daypart>
+<daypartname>День</daypartname>
+<description>Облачно, без существенных осадков, температура +8..+10 С, давление 752 мм рт.ст., ветер северный, 6-8 м/с</description>
+</timestep>
+<timestep>
+<time_step>6</time_step>
+<datetime>2017-03-30 21:00</datetime>
+<timestamp>1490904000</timestamp>
+<G>21</G>
+<HHii>21:00</HHii>
+<cloud_cover>58</cloud_cover>
+<precipitation>0</precipitation>
+<pressure>757</pressure>
+<temperature>7</temperature>
+<humidity>63</humidity>
+<wind_direction>С</wind_direction>
+<wind_velocity>6</wind_velocity>
+<falls>0</falls>
+<drops>0</drops>
+<cloud_text>Переменная облачность</cloud_text>
+<precipitation_text>Без осадков.</precipitation_text>
+<temperature_interval>+6..+8</temperature_interval>
+<temperaturef>45</temperaturef>
+<wind_direction_text>северный</wind_direction_text>
+<wind_direction_grad>20</wind_direction_grad>
+<wind_text>северный, 5-7 м/с</wind_text>
+<daypart>3</daypart>
+<daypartname>Вечер</daypartname>
+<description>Переменная облачность, без осадков, температура +6..+8 С, давление 757 мм рт.ст., ветер северный, 5-7 м/с</description>
+</timestep>
+<timestep>
+<time_step>6</time_step>
+<datetime>2017-03-31 3:00</datetime>
+<timestamp>1490925600</timestamp>
+<G>3</G>
+<HHii>3:00</HHii>
+<cloud_cover>55</cloud_cover>
+<precipitation>0</precipitation>
+<pressure>762</pressure>
+<temperature>0</temperature>
+<humidity>76</humidity>
+<wind_direction>С-В</wind_direction>
+<wind_velocity>8</wind_velocity>
+<falls>0</falls>
+<drops>0</drops>
+<cloud_text>Переменная облачность</cloud_text>
+<precipitation_text>Без осадков.</precipitation_text>
+<temperature_interval>-1..+1</temperature_interval>
+<temperaturef>32</temperaturef>
+<wind_direction_text>северо-восточный</wind_direction_text>
+<wind_direction_grad>40</wind_direction_grad>
+<wind_text>северо-восточный, 7-9 м/с</wind_text>
+<daypart>4</daypart>
+<daypartname>Ночь</daypartname>
+<description>Переменная облачность, без осадков, температура -1..+1 С, давление 762 мм рт.ст., ветер северо-восточный, 7-9 м/с</description>
+</timestep>
+</point>
+</weather>
