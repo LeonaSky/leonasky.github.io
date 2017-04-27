@@ -11,19 +11,18 @@
 	<script>
 		function xmlLoader(){
 			$.ajax({
-			    url: 'https://www.gismeteo.ua/ua/weather-kremenchuk-4968/export/currate.xml',
+			    url: 'http://rusmeteo.net/pogoda-v-kremenchuge-na-10-dney-107506/',
 			    dataType: "xml",
 			    type: 'GET',
 			    success: function(res) {
 					var myXML = res.responseText;
 					var JSONConvertedXML = $.xml2json(myXML);
 					
-					$('#main').append('<caption>Pogoda '+ JSONConvertedXML.item[0].date +
-					'</caption><tr><th id="wt">&nbsp;Ветер&nbsp;</th><th>Погодные явления</th><th>t°C</th><th>Давл.</th><th>Отн.влажн.</th></tr>');
+					$('#main').append('<h3 class="t">Четверг,  27 апреля 2017 г.'+ JSONConvertedXML.item[0].date +
+					'</h3><li class="time_head"><!--googleoff: index-->Пора дня &nbsp;<!--googleon: index--></li><li title="Направление и скорость ветра, м/с" class="w_head">Напр. ветра &nbsp;<br>Скор. ветра &nbsp;</li><li title="Температура воздуха, °C" class="t_head">Температура, t°C &nbsp;</li>');
 					for(var i = JSONConvertedXML.item.length - 1; i >= 0; i--){
-						$('#main').append('<tr><td>'+JSONConvertedXML.item[i].size+'</td><td>'+JSONConvertedXML.item[i].name+
-						'</td><td>'+JSONConvertedXML.item[i].rate+'</td><td>'+JSONConvertedXML.item[i].change+'</td><td>'+
-						JSONConvertedXML.item[i].char3 + '</td></tr>');
+						$('#main').append('</h3><li class="time_head">'+JSONConvertedXML.item[i].size+'</li><li title="Направление и скорость ветра, м/с" class="w_head">'+JSONConvertedXML.item[i].name+
+						'</li><li title="Температура воздуха, °C" class="t_head">'+JSONConvertedXML.item[i].rate+'</li>');
 					}
 					$.mobile.hidePageLoadingMsg();
 			    }
