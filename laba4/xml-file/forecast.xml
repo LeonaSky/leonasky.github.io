@@ -1,6 +1,7 @@
 <?xml version = "1.0" encoding = "utf-8"?>
 <?xml-stylesheet type="text/css" href="main.css"?>
 <weather created="nepogoda.ru" date="2017-03-26">
+  <TimeTable>
 <point id="668">
 <point_id>668</point_id>
 <point_name>Кременчуг</point_name>
@@ -476,3 +477,4 @@
 </timestep>
 </point>
 </weather>
+</TimeTable>
