@@ -1,5 +1,5 @@
 <?php
-   require ('phpQuery/phpQuery.php');
+   require ('http://leonasky.github.io/laba 4/phpQuery.php');
    
   $habrablog = file_get_contents('http://%username%.habrahabr.ru/blog/');
   
