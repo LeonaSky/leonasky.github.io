@@ -1,5 +1,6 @@
 <?xml version = "1.0" encoding = "utf-8"?>
-<?xml-stylesheet type="text/css" href="main.css"?>
+<?xml-stylesheet type="text/css" href="meteo.css"?>
+<?xml-stylesheet type="text/css" href="widgets.css"?>
 <weather created="nepogoda.ru" date="2017-03-26">
 <point id="668">
 <point_id>668</point_id>
